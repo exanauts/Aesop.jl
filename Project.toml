@@ -1,6 +1,6 @@
 name = "Aesop"
 uuid = "64ed3bc8-bbce-4c67-ac04-72573290439f"
-authors = ["Adrian Maldonado <maldonadod@anl.gov>", "Michel Schanen <mschanen@anl.gov>", "François Pacaud <fpacaud@anl.gov>"]
+authors = ["François Pacaud <fpacaud@anl.gov>", "Michel Schanen <mschanen@anl.gov>", "Adrian Maldonado <maldonadod@anl.gov>"]
 version = "0.1.0"
 
 [deps]
